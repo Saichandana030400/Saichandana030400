@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 Tech Stack :
+## 🛠 Tech Stack
 
 <p align="left">
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🌐 Socials :
+## 🌐 Socials
 
 <p align="left">
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats :
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saichandana030400&show_icons=true&theme=tokyonight"/>
@@ -89,7 +89,7 @@
 
 ---
 
-## 🚀 Featured Skills :
+## 🚀 Featured Skills
 
 ● Generative AI  
 ● Machine Learning  
