@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sai Chandana Priya Yelati
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZngybTZnNm04eTd5NG85dmJrdGwwNWRzenY4cXA3eWphNm9hOHNmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
+<img align="right"  hspace="50"  vspace="20" width = "240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ2dTl0d3ExZDVyZTdra2g2a3R2eWRmdG1sZHJ5OTd5eDZqd3g5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif">
 
 ### AI/ML Engineer | Generative AI Enthusiast | Python Developer
 
