@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Tech Stack: 
+## 🛠 Tech Stack : 
 
 <div align="Left">
 
@@ -55,23 +55,23 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials :
 
 <div align="left">
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/saichandanavish1" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="30" alt="hackerrank logo"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" height="30" alt="hackerrank logo"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 Stats:
+## 📊 Stats :
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 🚀 Featured Skills:
+## 🚀 Featured Skills :
 
 ● Generative AI  
 ● Machine Learning  
