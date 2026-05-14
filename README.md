@@ -4,7 +4,7 @@
 
 **Python Developer → AI/ML Engineer**
 Building intelligent document systems, RAG pipelines, and LLM-powered applications.
-4 years Python · 1 year AI/ML · Open to Remote & Freelance
+4 years Python · 1 year AI/ML · Open to AI/ML Roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/saichandanapriya-yelati)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:yelatisaichandanapriya@gmail.com)
