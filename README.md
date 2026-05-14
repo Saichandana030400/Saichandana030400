@@ -130,8 +130,6 @@ Zero-touch ETL system processing 10–100GB payroll data with full reconciliatio
 → FastAPI for serving ML models in production
 ```
 
----
-
 ## 📬 Let's Talk
 
 I'm open to:
