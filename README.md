@@ -17,11 +17,11 @@ Building intelligent document systems, RAG pipelines, and LLM-powered applicatio
 
 ## 👋 Hey, I'm Saichandana
 
-I'm a Python developer with 4 years of experience, spending the last year going deep into AI/ML — specifically building RAG systems, LLM pipelines, and document intelligence tools.
+I'm a Python developer with 4 years of experience, spending the last year going deep into AI/ML - specifically building RAG systems, LLM pipelines, and document intelligence tools.
 
-My day job at TCS taught me how to write production-grade automation at scale (think: validating 10M+ row datasets, building zero-touch ETL pipelines). Now I'm applying that same engineering discipline to AI — building systems that actually work, not just notebooks that demo well.
+My day job at TCS taught me how to write production-grade automation at scale (think: validating 10M+ row datasets, building zero-touch ETL pipelines). Now I'm applying that same engineering discipline to AI - building systems that actually work, not just notebooks that demo well.
 
-I care about **measurable results** — every project I ship has evaluation metrics, not just a "it works on my machine" README.
+I care about **measurable results** - every project I ship has evaluation metrics, not just a "it works on my machine" README.
 
 Currently open to **remote roles, freelance projects, and service-based AI work** across healthcare, legal, finance, and enterprise domains.
 
@@ -43,17 +43,17 @@ Status: Live and deployed ✅
 ```
 
 **What makes it different from every other RAG demo:**
-- 5-metric evaluation pipeline — Grounding, Relevance, Citation, Completeness, Confidence
+- 5-metric evaluation pipeline - Grounding, Relevance, Citation, Completeness, Confidence
 - 0% hallucination rate on adversarial out-of-scope test queries
-- Document comparison mode — finds contradictions across multiple files
+- Document comparison mode - finds contradictions across multiple files
 - Multi-workspace persistent storage with downloadable session history
-- Fully free stack — ₹0 inference cost vs ₹40k/month GPT-4 equivalent
+- Fully free stack - ₹0 inference cost vs ₹40k/month GPT-4 equivalent
 
 ---
 
 ## 🛠 Projects
 
-### EvidenceFlow AI — Document Intelligence Platform
+### EvidenceFlow AI - Document Intelligence Platform
 > RAG · LangChain · FAISS · LLaMA 3.1 · HuggingFace · Streamlit · Groq
 
 A production-grade document Q&A system built for any domain — legal contracts, medical guidelines, financial reports, HR policies, enterprise SOPs.
@@ -119,11 +119,6 @@ Zero-touch ETL system processing 10–100GB payroll data with full reconciliatio
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-**Cloud**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
-
 ---
 
 ## 🌱 Currently Learning
@@ -142,8 +137,7 @@ Zero-touch ETL system processing 10–100GB payroll data with full reconciliatio
 I'm open to:
 - 🌍 **Remote AI/ML Engineering roles**
 - 💼 **Freelance RAG / LLM application development**
-- 🏢 **Service-based company collaborations**
-- 🤝 **Open source AI projects**
+- 🤝 **Open source AI projects collaborations**
 
 Best way to reach me → **yelatisaichandanapriya@gmail.com**
 
