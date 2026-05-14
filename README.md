@@ -51,28 +51,6 @@ Status: Live and deployed ✅
 
 ---
 
-## 🛠 Projects
-
-### EvidenceFlow AI - Document Intelligence Platform
-> RAG · LangChain · FAISS · LLaMA 3.1 · HuggingFace · Streamlit · Groq
-
-A production-grade document Q&A system built for any domain — legal contracts, medical guidelines, financial reports, HR policies, enterprise SOPs.
-
-| Metric | Result |
-|--------|--------|
-| Overall Evaluation Score | 93% |
-| Hallucination Rate | 20% |
-| Answer Faithfulness | 85% |
-| Inference Cost | ₹0 / month |
-| Documents Supported | PDF · TXT · MD |
-
-**What it does:**
-- Semantic search across 800-token chunks with source-level citations
-- Multi-document comparison with structured evidence trails
-- 3-turn conversation memory for contextual follow-up questions
-- Auto-generated workspace summaries on document upload
-- Downloadable session reports per workspace
-
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/saichandanavishwakarma-crypto/Medical_RAG_system)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?logo=vercel&logoColor=white&style=flat-square)](https://YOUR-DEMO-LINK)
 
