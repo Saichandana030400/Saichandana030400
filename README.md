@@ -15,7 +15,7 @@ Building intelligent document systems, RAG pipelines, and LLM-powered applicatio
 
 ---
 
-## 👋 Hey, I'm Saichandana
+## 👋 Hey, I'm Sai
 
 I'm a Python developer with 4 years of experience, spending the last year going deep into AI/ML - specifically building RAG systems, LLM pipelines, and document intelligence tools.
 
