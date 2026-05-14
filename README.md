@@ -61,8 +61,8 @@ A production-grade document Q&A system built for any domain — legal contracts,
 | Metric | Result |
 |--------|--------|
 | Overall Evaluation Score | 93% |
-| Hallucination Rate | 0% |
-| Answer Faithfulness | 100% |
+| Hallucination Rate | 20% |
+| Answer Faithfulness | 95% |
 | Inference Cost | ₹0 / month |
 | Documents Supported | PDF · TXT · MD |
 
