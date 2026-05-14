@@ -17,14 +17,13 @@ Building intelligent document systems, RAG pipelines, and LLM-powered applicatio
 
 ## 👋 Hey, I'm Sai
 
-I'm a Python developer with 4 years of experience, spending the last year going deep into AI/ML - specifically building RAG systems, LLM pipelines, and document intelligence tools.
+I'm a Python developer with 4 years of experience, spending the last year going deep into AI/ML - specifically building RAG systems, LLM pipelines.
 
 My day job at TCS taught me how to write production-grade automation at scale (think: validating 10M+ row datasets, building zero-touch ETL pipelines). Now I'm applying that same engineering discipline to AI - building systems that actually work, not just notebooks that demo well.
 
 I care about **measurable results** - every project I ship has evaluation metrics, not just a "it works on my machine" README.
 
-Currently open to **remote roles, freelance projects, and service-based AI work** across healthcare, legal, finance, and enterprise domains.
-
+Currently open to **remote roles, freelance projects, and AI work collaborations **
 ---
 
 ## 🔭 What I'm Currently Building
@@ -106,10 +105,6 @@ Response time: usually within 24 hours.
 
 <br/><br/>
 
-<!-- Option 2: Top Languages (more stable) -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saichandana030400&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
