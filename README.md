@@ -76,29 +76,6 @@ A production-grade document Q&A system built for any domain — legal contracts,
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/saichandanavishwakarma-crypto/Medical_RAG_system)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?logo=vercel&logoColor=white&style=flat-square)](https://YOUR-DEMO-LINK)
 
----
-
-### Integration Management Automation - TCS
-> Python · Pandas · Pytest · NumPy · Pytest-html
-
-Built 75+ automated test scripts validating 1–10M row enterprise datasets against IDD standards.
-
-- **50% reduction** in manual validation effort
-- **40% faster** test case creation via automated IDD header analysis
-- **35% reduction** in defect identification time via HTML test reports
-
----
-
-### Payroll ETL Pipeline - TCS
-> Python · Oracle · Hive · MySQL · Linux · Bash
-
-Zero-touch ETL system processing 10–100GB payroll data with full reconciliation automation.
-
-- **60% improvement** in data processing performance
-- **100% elimination** of manual authentication effort
-- Handles reconciliation for 1,000+ employee payroll cycles
-
----
 
 ## 💻 Tech Stack
 
