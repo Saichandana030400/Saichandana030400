@@ -23,7 +23,7 @@ My day job at TCS taught me how to write production-grade automation at scale (t
 
 I care about **measurable results** - every project I ship has evaluation metrics, not just a "it works on my machine" README.
 
-Currently open to **remote roles, freelance projects, and AI work collaborations
+Currently open to **remote roles, freelance projects, and AI work collaborations**.
 ---
 
 ## 🔭 What I'm Currently Building
