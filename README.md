@@ -143,7 +143,6 @@ Best way to reach me → **yelatisaichandanapriya@gmail.com**
 
 Response time: usually within 24 hours.
 
----
 
 ## 📊 GitHub Stats
 
