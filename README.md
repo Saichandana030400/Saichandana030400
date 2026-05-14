@@ -78,7 +78,7 @@ A production-grade document Q&A system built for any domain — legal contracts,
 
 ---
 
-### Integration Management Automation — TCS
+### Integration Management Automation - TCS
 > Python · Pandas · Pytest · NumPy · Pytest-html
 
 Built 75+ automated test scripts validating 1–10M row enterprise datasets against IDD standards.
@@ -89,7 +89,7 @@ Built 75+ automated test scripts validating 1–10M row enterprise datasets agai
 
 ---
 
-### Payroll ETL Pipeline — TCS
+### Payroll ETL Pipeline - TCS
 > Python · Oracle · Hive · MySQL · Linux · Bash
 
 Zero-touch ETL system processing 10–100GB payroll data with full reconciliation automation.
@@ -155,14 +155,15 @@ Response time: usually within 24 hours.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saichandana030400&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+<!-- Option 1: GitHub Stats via alternative working instance -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saichandana030400&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saichandana030400&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+<!-- Option 2: Top Languages (more stable) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saichandana030400&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
-
 ---
 
 <div align="center">
