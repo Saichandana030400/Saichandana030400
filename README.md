@@ -86,7 +86,7 @@ Status: Live and deployed ✅
 ## 📬 Let's Talk
 
 I'm open to:
-- 🌍 **AI/ML Engineering roles**
+- 🌍 **AI/ML Engineering projects**
 - 💼 **Freelance RAG / LLM application development**
 - 🤝 **Open source AI projects collaborations**
 
